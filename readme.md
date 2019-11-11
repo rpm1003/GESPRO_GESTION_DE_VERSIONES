@@ -5,3 +5,4 @@ Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum
 - María Portugal
 - Marcos Romano
 - Oscar Valverde
+- Miriram Torres
