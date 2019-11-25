@@ -9,6 +9,7 @@
 [![Documentation Status](https://readthedocs.org/projects/go-bees/badge/?version=develop)](http://go-bees.readthedocs.io/es/develop/?badge=develop)
 
 GoBees allows beekepers to manage and monitor their apiaries.
+
 <a href="https://play.google.com/store/apps/details?id=com.davidmiguel.gobees">
   <img src="http://gobees.io/img/google-play-badge.svg" height="60">
 </a>
@@ -41,12 +42,3 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
-
-# GESPRO_GESTION
-Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum en un proyecto software.
-
-- Rodrigo Perdiguero
-- María Portugal
-- Marcos Romano
-- Oscar Valverde
-- Miriam Torres
