@@ -1,3 +1,12 @@
+## Equipo de trabajo
+- Rodrigo Perdiguero
+- María Portugal
+- Óscar Valverde
+- Marcos Romano
+- Miriam Torres
+
+
+
 ![header](https://cloud.githubusercontent.com/assets/6546265/22174630/785cdf04-dfe3-11e6-8cf4-024e8dc1c051.png)
 
 [![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
